@@ -327,3 +327,4 @@ C:\Users\pizza\OneDrive\Desktop\CIT218\Week 11\EmployeesCh12\EmployeesCh12\bin\D
 C:\Users\pizza\OneDrive\Desktop\CIT218\Week 11\EmployeesCh12\EmployeesCh12\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
 C:\Users\pizza\OneDrive\Desktop\CIT218\Week 11\EmployeesCh12\EmployeesCh12\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
 C:\Users\pizza\OneDrive\Desktop\CIT218\Week 11\EmployeesCh12\EmployeesCh12\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\pizza\OneDrive\Desktop\CIT218\Week 11\EmployeesCh12\EmployeesCh12\obj\Debug\net9.0\EmployeesCh12.sourcelink.json
